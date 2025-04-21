@@ -8,11 +8,11 @@
   --middle-font-size: 1.125rem;
   --normal-font-size: 1rem;
   --small-font-size: 0.75rem;
-  --bg-color: #191970;
-  --second-bg-color: #808080;
-  --text-color:#5F9EA0;
+  --bg-color: #8B4513;
+  --second-bg-color: #A52A2A;
+  --text-color:#800000;
   --second-text-color: #000;
-  --main-color: #001aff;
+  --main-color: #A0522D;
   --height-nav: 3em;
   --padding-container: 3em 0;
   --border-bottom: 4px solid var(--main-color);
